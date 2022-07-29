@@ -7,7 +7,7 @@ import member
 import borrow
 import search
 
-password = "Blade369"
+password = ""
 mydb = mysql.connector.connect(
     host = "localhost",
     user = "root",
